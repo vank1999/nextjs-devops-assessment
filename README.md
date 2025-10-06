@@ -6,6 +6,5 @@ Containerize and deploy a simple Next.js app using Docker, GitHub Actions, and M
 ## Steps
 
 ### 1️⃣ Run Locally
-```bash
 npm install
 npm run dev
